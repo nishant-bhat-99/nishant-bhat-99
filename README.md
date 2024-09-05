@@ -3,9 +3,13 @@ Welcome to my GitHub profile! I'm a data science and AI student with a backgroun
 
 🧑‍💻 About Me:
 🎓 Education: B.Tech in Computer Technology from Dayananda Sagar University.
+
 📊 Currently exploring Data Science, AI, and Machine Learning.
+
 💼 I am currently a Game Tester at Vincell Studios, where I test multiple games, created and executed test cases, and collaborate with developers, artists, and designers.
+
 🧪 Skilled in Manual Testing and learning Python Testing with pytest and Selenium WebDriver.
+
 🔍 Proficient in Power BI, Jupyter Notebook, R, pandas, and SQL for data analysis and visualization.
 
 💡 Tech Stack:
