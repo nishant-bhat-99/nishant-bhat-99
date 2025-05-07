@@ -1,25 +1,32 @@
 Hi, I'm Nishant 👋
-Welcome to my GitHub profile! I'm a data science and AI student with a background in manual testing and a passion for learning and developing new skills in the tech world. Here's a bit more about me:
+Welcome to my GitHub profile!
 
-🎓 Education: B.Tech in Computer Technology from Dayananda Sagar University.
+I'm currently studying Test Automation with a background in Manual QA and Data Science/AI. I'm passionate about building robust testing frameworks and also enjoy exploring data analysis and machine learning tools.
 
-📊 Currently exploring Data Science, AI, and Machine Learning.
+🎓 Education
+B.Tech in Computer Technology from Dayananda Sagar University.
 
-💼 I am currently a Game Tester at Vincell Studios, where I test multiple games, created and executed test cases, and collaborate with developers, artists, and designers.
+🧪 Focus Areas
+Currently learning automation testing using:
+- Python
+- pytest
+- Selenium WebDriver
 
-🧪 Skilled in Manual Testing and learning Python Testing with pytest and Selenium WebDriver.
+Also skilled in manual testing and familiar with agile methodologies.
 
-🔍 Proficient in Power BI, Jupyter Notebook, R, pandas, and SQL for data analysis and visualization.
 
-💡 Tech Stack:
+💡 Tech Stack
 Languages: Python, R, SQL
-Tools: Power BI, Tableau, Jupyter Notebook, pandas, GitHub
-Learning: AI/ML techniques, Data Science tools, Selenium WebDriver with Python
 
-⚡ Projects:
-Developed a game called "Card Clash" using Python and PyGame which is Rock, Paper, Scissors game with a twist - instead of the traditional 3 choices, players can select from over 20 different options.
-Performed financial analysis on income statements and balance sheets using Power Bi and created a report.
+Tools: Power BI, Tableau, GitHub, Jupyter Notebook
 
-📚 Currently Learning:
-Deepening my understanding of Data Science and AI.
-Enhancing skills in Data Analysis and Visualization.
+Currently Learning: Selenium, test automation best practices, AI/ML techniques
+
+⚡ Projects
+- Developed a Python game called "Card Clash" using PyGame – an extended take on Rock, Paper, Scissors with over 20 unique options.
+- Built an interactive Power BI report by analyzing income statements and balance sheets of major automobile companies.
+- Created test automation framework for a demo e-commerce website.
+
+📚 Currently Learning
+Test automation frameworks and patterns with Python.
+Deepening skills in data visualization, AI, and ML.
