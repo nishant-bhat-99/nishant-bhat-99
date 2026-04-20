@@ -48,4 +48,4 @@ I am a results-driven Data Analyst dedicated to transforming complex datasets in
 ---
 
 ## 📬 Let's Connect!
-* **LinkedIn:** [Insert your Link]
+* **LinkedIn:** [(https://www.linkedin.com/in/nishant-bhat-006577194/)]
