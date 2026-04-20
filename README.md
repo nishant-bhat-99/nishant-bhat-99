@@ -8,11 +8,6 @@ I am a results-driven Data Analyst dedicated to transforming complex datasets in
 ## 🎓 Education
 * **B.Tech in Computer Technology** | Dayananda Sagar University
 
-## 📊 Focus Areas
-* **Exploratory Data Analysis (EDA):** Uncovering trends and patterns in large datasets.
-* **BI Dashboarding:** Designing executive-level reports with a focus on professional, consulting-style layouts.
-* **Storytelling with Data:** Creating "scrollytelling" narratives, particularly for environmental and sports analytics.
-
 ## 💡 Tech Stack
 * **Visualization:** Power BI (DAX, KPI Scorecards), Tableau (Advanced Map Layers, Narrative Flow)
 * **Data & Languages:** SQL, Python (Pandas, NumPy), Excel (Advanced Pivot Tables, Dashboarding)
@@ -22,13 +17,13 @@ I am a results-driven Data Analyst dedicated to transforming complex datasets in
 
 ## ⚡ Featured Projects
 ### Dashboards
-### 🏏 IPL 2025 Performance Analytics(PowerBi)
+#### 🏏 IPL 2025 Performance Analytics(PowerBi)
 * Developed a comprehensive Power BI dashboard analyzing a 72-match dataset.
-### 🛒 Retail Performance Snapshot (Excel)
+#### 🛒 Retail Performance Snapshot (Excel)
 * Built a high-impact retail dashboard focusing on executive-level KPIs.
-### 📊 HR Analytics Dashboard(PowerBi)
+#### 📊 HR Analytics Dashboard(PowerBi)
 * This project presents an interactive HR Analytics dashboard built using Power BI to analyze employee attrition and workforce trends.
-### 🚗 Automobile Financial Analysis(PowerBi)
+#### 🚗 Automobile Financial Analysis(PowerBi)
 * Built an interactive Power BI report by analyzing income statements and balance sheets of two major automobile companies.
 
 ### 🃏 Card Clash (Python/PyGame)
@@ -48,4 +43,4 @@ I am a results-driven Data Analyst dedicated to transforming complex datasets in
 ---
 
 ## 📬 Let's Connect!
-* **LinkedIn:** [(https://www.linkedin.com/in/nishant-bhat-006577194/)]
+* **LinkedIn:** https://www.linkedin.com/in/nishant-bhat-006577194/
