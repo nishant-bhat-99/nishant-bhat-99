@@ -1,33 +1,51 @@
-Hi, I'm Nishant 👋
-Welcome to my GitHub profile!
+# Hi, I'm Nishant 👋
+### Welcome to my GitHub profile!
 
-I'm currently studying Test Automation with a background in Manual QA and Data Science/AI. I'm passionate about building robust testing frameworks and also enjoy exploring data analysis and machine learning tools.
+I am a results-driven Data Analyst dedicated to transforming complex datasets into actionable business insights. While I have a background in Manual QA and Selenium automation, my current focus is on building interactive dashboards and conducting deep-dive statistical analysis to drive strategic decision-making.
 
-🎓 Education
+---
 
-B.Tech in Computer Technology from Dayananda Sagar University.
+## 🎓 Education
+* **B.Tech in Computer Technology** | Dayananda Sagar University
 
-🧪 Focus Areas
+## 📊 Focus Areas
+* **Exploratory Data Analysis (EDA):** Uncovering trends and patterns in large datasets.
+* **BI Dashboarding:** Designing executive-level reports with a focus on professional, consulting-style layouts.
+* **Storytelling with Data:** Creating "scrollytelling" narratives, particularly for environmental and sports analytics.
 
-Currently learning automation testing using:
-- Python
-- pytest
-- Selenium WebDriver
-Also skilled in manual testing and familiar with agile methodologies.
+## 💡 Tech Stack
+* **Visualization:** Power BI (DAX, KPI Scorecards), Tableau (Advanced Map Layers, Narrative Flow)
+* **Data & Languages:** SQL, Python (Pandas, NumPy), Excel (Advanced Pivot Tables, Dashboarding)
+* **Legacy Skills:** Selenium WebDriver with Python (Test Automation), pytest, Manual QA
 
-💡 Tech Stack
+---
 
-Languages: Python, R, SQL
-Tools: Power BI, Tableau, GitHub, Jupyter Notebook
-Currently Learning: Selenium, test automation best practices, AI/ML techniques
+## ⚡ Featured Projects
+### Dashboards
+### 🏏 IPL 2025 Performance Analytics(PowerBi)
+* Developed a comprehensive Power BI dashboard analyzing a 72-match dataset.
+### 🛒 Retail Performance Snapshot (Excel)
+* Built a high-impact retail dashboard focusing on executive-level KPIs.
+### 📊 HR Analytics Dashboard(PowerBi)
+* This project presents an interactive HR Analytics dashboard built using Power BI to analyze employee attrition and workforce trends.
+### 🚗 Automobile Financial Analysis(PowerBi)
+* Built an interactive Power BI report by analyzing income statements and balance sheets of two major automobile companies.
 
-⚡ Projects
+### 🃏 Card Clash (Python/PyGame)
+* Developed an extended take on "Rock, Paper, Scissors" using **PyGame**, featuring over 20 unique combat options.
 
-- Developed a Python game called "Card Clash" using PyGame – an extended take on Rock, Paper, Scissors with over 20 unique options.
-- Built an interactive Power BI report by analyzing income statements and balance sheets of major automobile companies.
-- Created test automation framework for a demo e-commerce website.
+### 🧪 Test Suite for Demo website (Selenium Webdriver with Python)
+* Built a robust test automation framework for an e-commerce platform using **Selenium WebDriver** and **Python**.
+* Implemented the **Page Object Model (POM)** to ensure maintainable and scalable test scripts.
+* Developed a comprehensive suite covering critical end-to-end user flows like product purchase and user authentication.
+---
 
-📚 Currently Learning
+## 📚 Currently Learning & Refining
+* **Advanced Tableau:** Mastering dark-themed "scrollytelling" for an Indian AQI 2024-2025 project.
+* **SQL Optimization:** Refining complex window functions for large-scale data manipulation.
+* **Sports Analytics:** Leveraging cricket and football management data to build predictive models.
 
-Test automation frameworks and patterns with Python.
-Deepening skills in data visualization, AI, and ML.
+---
+
+## 📬 Let's Connect!
+* **LinkedIn:** [Insert your Link]
